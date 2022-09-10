@@ -1,0 +1,8 @@
+a = input("enter 1st number ")
+# b = input("enter a 2nd number ")
+a = int(a)
+# b = int(b)
+avg = (a*a)
+
+print("average  of two number ", avg)
+print(type(a))
